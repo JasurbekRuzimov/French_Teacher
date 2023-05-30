@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "98620315581",
+    "firebase_url": "https://frenchteacher-a9e5f-default-rtdb.firebaseio.com",
+    "project_id": "frenchteacher-a9e5f",
+    "storage_bucket": "frenchteacher-a9e5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98620315581:android:359f34c7e55f52a6b9a4d4",
+        "android_client_info": {
+          "package_name": "uz.jasurbekruzimov.frenchteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98620315581-cg8ote84qf6dqpvl3du0tqhm8diue39m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF2yXaks8VwZWTUZ0RKIZZc4ILmYeH7rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98620315581-cg8ote84qf6dqpvl3du0tqhm8diue39m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
